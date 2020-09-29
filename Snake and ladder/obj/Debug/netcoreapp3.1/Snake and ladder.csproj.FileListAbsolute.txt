@@ -1,0 +1,13 @@
+C:\Users\Kartikeya\source\repos\Snake and ladder\Snake and ladder\bin\Debug\netcoreapp3.1\Snake and ladder.exe
+C:\Users\Kartikeya\source\repos\Snake and ladder\Snake and ladder\bin\Debug\netcoreapp3.1\Snake and ladder.deps.json
+C:\Users\Kartikeya\source\repos\Snake and ladder\Snake and ladder\bin\Debug\netcoreapp3.1\Snake and ladder.runtimeconfig.json
+C:\Users\Kartikeya\source\repos\Snake and ladder\Snake and ladder\bin\Debug\netcoreapp3.1\Snake and ladder.runtimeconfig.dev.json
+C:\Users\Kartikeya\source\repos\Snake and ladder\Snake and ladder\bin\Debug\netcoreapp3.1\Snake and ladder.dll
+C:\Users\Kartikeya\source\repos\Snake and ladder\Snake and ladder\bin\Debug\netcoreapp3.1\Snake and ladder.pdb
+C:\Users\Kartikeya\source\repos\Snake and ladder\Snake and ladder\obj\Debug\netcoreapp3.1\Snake and ladder.csprojAssemblyReference.cache
+C:\Users\Kartikeya\source\repos\Snake and ladder\Snake and ladder\obj\Debug\netcoreapp3.1\Snake and ladder.AssemblyInfoInputs.cache
+C:\Users\Kartikeya\source\repos\Snake and ladder\Snake and ladder\obj\Debug\netcoreapp3.1\Snake and ladder.AssemblyInfo.cs
+C:\Users\Kartikeya\source\repos\Snake and ladder\Snake and ladder\obj\Debug\netcoreapp3.1\Snake and ladder.csproj.CoreCompileInputs.cache
+C:\Users\Kartikeya\source\repos\Snake and ladder\Snake and ladder\obj\Debug\netcoreapp3.1\Snake and ladder.dll
+C:\Users\Kartikeya\source\repos\Snake and ladder\Snake and ladder\obj\Debug\netcoreapp3.1\Snake and ladder.pdb
+C:\Users\Kartikeya\source\repos\Snake and ladder\Snake and ladder\obj\Debug\netcoreapp3.1\Snake and ladder.genruntimeconfig.cache
